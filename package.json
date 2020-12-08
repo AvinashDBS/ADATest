@@ -1,0 +1,24 @@
+{
+  "name": "adatest",
+  "version": "1.0.0",
+  "description": "test ADA desc text",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node out/index",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsconfig": "tsc --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvinashDBS/ADATest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvinashDBS/ADATest/issues"
+  },
+  "homepage": "https://github.com/AvinashDBS/ADATest#readme",
+  "dependencies": {
+    "typescript": "^4.1.2"
+  }
+}
