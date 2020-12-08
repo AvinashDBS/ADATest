@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AvinashDBS/ADATest/tree/Phase2.git"
+    "url": "git+https://github.com/AvinashDBS/ADATest.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AvinashDBS/ADATest/issues"
   },
-  "homepage": "https://github.com/AvinashDBS/ADATest#readme",
+  "homepage": "https://github.com/AvinashDBS/ADATest/tree/Phase2#readme",
   "dependencies": {
     "typescript": "^4.1.2"
   }
